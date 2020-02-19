@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="startButton">START!</string>
+    <string name="timeTextView">30s</string>
+    <string name="scoreTextView">0/0</string>
+    <string name="mainTextView">30+7</string>
+    <string name="firstButton">14</string>
+    <string name="playAgainButton">Play Again</string>
+    <string name="sumTextView">31+ 7</string>
+    <string name="checkAnswerTextView">Correct!</string>
+    <string name="timerTextView">30s</string>
+    <string name="button1">14</string>
+    <string name="button2">14</string>
+    <string name="button3">14</string>
+    <string name="button4">14</string>
+</resources>
